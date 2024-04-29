@@ -1,0 +1,8 @@
+- agent=constant_velocity_agent
+- split=mini
+- experiment_name=submission_cv_agent
+- team_name=
+- authors=
+- email=@gmail.com
+- institution=
+- country=

@@ -1,0 +1,35 @@
+dataset/maps/*
+dataset/navsim_logs/*
+dataset/sensor_blobs/*
+
+# python
+*.pyc
+**/__pycache__/
+.pytest_cache/*
+.pydevproject
+
+# IDE
+.vscode/*
+
+# Pip
+*.egg-info
+
+# files
+
+
+navsim/**/*.pyc
+navsim/**/__pycache__/
+navsim/**/.pytest_cache/*
+navsim/**/*.pydevproject
+
+# IDE files
+navsim/**/.vscode/*
+
+# Pip files
+navsim/**/*.egg-info
+
+# Log and data files
+navsim/**/*.log
+navsim/**/*.pkl
+navsim/**/*.jpg
+navsim/**/*.pcd

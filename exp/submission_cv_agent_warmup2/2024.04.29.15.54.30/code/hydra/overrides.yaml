@@ -1,0 +1,9 @@
+- agent=constant_velocity_agent
+- split=mini
+- scene_filter=warmup_test_e2e
+- experiment_name=submission_cv_agent_warmup2
+- team_name=
+- authors=
+- email=@gmail.com
+- institution=
+- country=
